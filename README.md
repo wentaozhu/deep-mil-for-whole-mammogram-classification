@@ -13,4 +13,4 @@ _test is used for test.
 
 Our code is based on conv-keras and keras.
 
-If you have any problems, please contact with me wentaozhu1991@gmail.com.
+If you have any questions, please contact with me wentaozhu1991@gmail.com.
