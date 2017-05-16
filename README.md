@@ -1,7 +1,6 @@
 # deep-mil-for-whole-mammogram-classification
 
-Please cite our paper Zhu, Wentao, Qi Lou, Yeeleng Scott Vang, and Xiaohui Xie. "Deep Multi-instance Networks with Sparse Label Assignment for Whole Mammogram Classification." arXiv preprint arXiv:1612.05968 (2016).
-
+Please cite our paper Zhu, Wentao, Qi Lou, Yeeleng Scott Vang, and Xiaohui Xie. "Deep Multi-instance Networks with Sparse Label Assignment for Whole Mammogram Classification." MICCAI 2017.
 Preprocessed InBreast dataset can be downloaded from https://drive.google.com/drive/folders/0B-7-8LLwONIZZm1pQWdyak5Od28?usp=sharing
 
 run_cnn_k_new.py is used for alex net.
