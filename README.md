@@ -4,9 +4,11 @@ Please cite our paper
 
 Zhu, Wentao, Qi Lou, Yeeleng Scott Vang, and Xiaohui Xie. "Deep Multi-instance Networks with Sparse Label Assignment for Whole Mammogram Classification." MICCAI 2017.
 
-Preprocessed InBreast dataset can be downloaded from https://drive.google.com/drive/folders/0B-7-8LLwONIZZm1pQWdyak5Od28?usp=sharing
+Preprocessed InBreast dataset can be downloaded from https://drive.google.com/drive/folders/0B-7-8LLwONIZZm1pQWdyak5Od28?usp=sharing . If you use the preprocessed dataset, you do not need to download the original InBreast dataset.
 
-For original InBreast dataset (.dicom files), please contact http://medicalresearch.inescporto.pt/breastresearch/index.php/Get_INbreast_Database
+For label processing, please read inbreast.py readlabel() function. For converting dicom to pickle file, please read readdicom() function in the inbreast.py.
+
+For original InBreast dataset (.dicom files), please contact http://medicalresearch.inescporto.pt/breastresearch/index.php/Get_INbreast_Database . 
 
 run_cnn_k_new.py is used for alex net.
 run_cnn_k_mil_new.py is used for max pooling based deep mil.
