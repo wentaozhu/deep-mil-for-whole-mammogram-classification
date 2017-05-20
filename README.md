@@ -17,6 +17,6 @@ run_cnn_k_mymil_new.py is used for label assignment based deep mil. Here we fine
 
 _test is used for test. 
 
-Our code is based on conv-keras and keras.
+Our code is based on conv-keras and keras. If you use current version of keras, you need to revised the code a little bit for adaption. I will update a repo. for current keras.
 
 If you have any questions, please contact with me wentaozhu1991@gmail.com.
