@@ -1,5 +1,7 @@
 # deep-mil-for-whole-mammogram-classification
 
+The code is based on keras with theano backend.
+
 Please cite our paper 
 
 Zhu, Wentao, Qi Lou, Yeeleng Scott Vang, and Xiaohui Xie. "Deep Multi-instance Networks with Sparse Label Assignment for Whole Mammogram Classification." MICCAI 2017.
